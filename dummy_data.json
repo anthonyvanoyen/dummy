@@ -1,0 +1,38 @@
+[
+  {
+    "startDate": "2018-03-30T17:00",
+    "endDate": "2018-03-30T20:00",
+    "link": {
+      "nl": "https://github.com/anthonyvanoyen/dummy",
+      "fr": "https://github.com/anthonyvanoyen/dummy"
+    },
+    "status": "open"
+  },
+  {
+    "startDate": "2018-03-31T11:00",
+    "endDate": "2018-03-31T14:00",
+    "link": {
+      "nl": "https://github.com/anthonyvanoyen/dummy",
+      "fr": "https://github.com/anthonyvanoyen/dummy"
+    },
+    "status": "open"
+  },
+  {
+    "startDate": "2018-04-27T17:00",
+    "endDate": "2018-04-27T20:00",
+    "link": {
+      "nl": "https://github.com/anthonyvanoyen/dummy",
+      "fr": "https://github.com/anthonyvanoyen/dummy"
+    },
+    "status": "full"
+  },
+  {
+    "startDate": "2018-04-28T11:00",
+    "endDate": "2018-04-28T14:00",
+    "link": {
+      "nl": "https://github.com/anthonyvanoyen/dummy",
+      "fr": "https://github.com/anthonyvanoyen/dummy"
+    },
+    "status": "open"
+  }
+]
